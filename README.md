@@ -1,5 +1,7 @@
 # Enterprise Linux Community Kernel Archives
 
+**[简体中文 (Simplified Chinese)](README_zh-CN.md)** | [English](README.md)
+
 **ELCKA** provides pre-built RPM packages of third-party Linux kernels for Linux distributions that use RPM as their package format, such as Fedora, CentOS, RHEL, and openSUSE. Instead of maintaining a full package repository, ELCKA offers direct downloads of standalone RPM files for manual installation via the `rpm` command.
 
 ---
